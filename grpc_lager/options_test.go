@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/TyeMcQueen/go-lager"
-	"github.com/TyeMcQueen/go-lager/grpc_lager"
+	"github.com/Unity-Technologies/go-lager-internal"
+	"github.com/Unity-Technologies/go-lager-internal/grpc_lager"
 	"github.com/Unity-Technologies/go-tutl-internal"
 )
 
